@@ -9,9 +9,6 @@
             "email": "fideloper@gmail.com"
         }
     ],
-    "require": {
-        "guzzle/guzzle": "3.9.*"
-    },
     "autoload": {
         "psr-0": {
             "Customerio":"src/"
